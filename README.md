@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masamasaowl🦉
 - 👀 I’m interested in designing🎨, web development, digital art🖼 and guitar🎸
-- 🌱 I’m currently learning javascript, java, Figma🖌
+- 🌱 I’m currently learning backend and Databases🖌
 - 💞️ I’m looking to collaborate on possibly anything!!
 - 📫 How to reach me LinkedIn, Insta or if you have my number
 - 😄 Pronouns: enthusiastic, cheerful, grateful❤️
